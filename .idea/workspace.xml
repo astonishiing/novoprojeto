@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="687209d2-73af-43ab-bd2e-435c59bfd718" name="Changes" comment="Aula - 01 (java)" />
+    <list default="true" id="c4f5b0c1-20ae-44b2-8e66-62389409ccf0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "astonishiing"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;astonishiing&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/astonishiing/novoprojeto",
-    "accountId": "a1e7eb23-a981-41a9-9049-ccb96124ddad"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/astonishiing/novoprojeto&quot;,
+    &quot;accountId&quot;: &quot;a1e7eb23-a981-41a9-9049-ccb96124ddad&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
@@ -43,17 +45,30 @@
     "Application.Novoprojeto.executor": "Run",
     "Application.Primeinome.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.git.unshallow": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Wagner Cardoso/IdeaProjects/novoprojeto",
     "onboarding.tips.debug.path": "C:/Users/Wagner Cardoso/IdeaProjects/novoprojeto/src/Main.java",
     "settings.editor.selected.configurable": "project.propVCSSupport.CommitDialog"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="novoprojeto" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="novoprojeto" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="687209d2-73af-43ab-bd2e-435c59bfd718" name="Changes" comment="" />
+      <changelist id="c4f5b0c1-20ae-44b2-8e66-62389409ccf0" name="Changes" comment="" />
       <created>1738063597847</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
